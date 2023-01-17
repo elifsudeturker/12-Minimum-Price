@@ -1,3 +1,18 @@
 body{
-    background-color: chocolate;
+    background-color: cornsilk;
+}
+
+.prices{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto;
+}
+
+input[type=text]{
+    margin: 10px 0;
+    text-align: center;
+    font-size: 26px;
+    padding: 10px 0;
+    border-radius: 5px;
 }
