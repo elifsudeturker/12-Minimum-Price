@@ -16,3 +16,11 @@ input[type=text]{
     padding: 10px 0;
     border-radius: 5px;
 }
+
+#result{
+    text-align: center;
+    font-size: 44px;
+    color: chocolate;
+    margin-top: 25px;
+    font-weight: bolder;
+}
